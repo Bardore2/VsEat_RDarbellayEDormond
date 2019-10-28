@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\VsEAT_DAL\VsEAT_DAL.csproj" />
+    <ProjectReference Include="..\VsEAT_DTO\VsEAT_DTO.csproj" />
+  </ItemGroup>
+
+</Project>
